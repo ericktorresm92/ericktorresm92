@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericktorresm92&label=Profile%20views&color=0e75b6&style=flat" alt="ericktorresm92" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericktorresm92" alt="ericktorresm92" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericktorresm92&theme=dracula" alt="ericktorresm92" /></a> </p>
 
 - 🔭 I’m currently **looking for work**
 - 🌱 I’m currently learning **Data Analysis**
@@ -37,3 +37,5 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 <h1 align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericktorresm92&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="ericktorresm92" /></p></h1>
+<h1 align="center"><p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericktorresm92&theme=dracula&hide_border=true" /></p></h1>
+<h1 align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericktorresm92&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="ericktorresm92" /></p></h1>
